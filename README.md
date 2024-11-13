@@ -1,6 +1,6 @@
 # KATHYA TAPIA-SCHYTHE #
 
-I am a PhD Candidate in the Department of Economics at UC Davis. My research interests are Applied Microeconometrics, Public Economics, Health Economics, and Machine Learning. I also enjoy coding. I co-wrote the *eventdd* command, widely use in STATA for panel event study models.
+I am a PhD Candidate in the Department of Economics at UC Davis. My research interests are Applied Microeconometrics, Public Economics, Health Economics, and Machine Learning. I also enjoy coding. I co-wrote the *eventdd* command, widely use in Stata for panel event study models.
 
 ## Publications ##
 
