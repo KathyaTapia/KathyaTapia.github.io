@@ -31,27 +31,23 @@ _____________
 
 ## Work Experience ##
 
-2024- Research Assistant. PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
+2024- Research Assistant. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
+
+2018-2021 Research Assistant. Statistical analysis (programming and meta-analysis), FONDECYT (National Fund for Scientific and Technological Development). PI: Damian Clarke
 
 2019-2021 Consultant.‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA). Investigators: Sebastián Martínez and Pablo Celhay
 
-2019-2021 Research Assistant, FONDECYT (National Fund for Scientific and Technological Development) Project 1200634. PI: Damian Clarke.
-
 2018-2019 Consultant.‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB). Investigators: Sebastián Martínez and Pablo Celhay
 
-2018 Research Assistant, FONDECYT Initiation 2016: Project 11160200. PI: Damian Clarke.
-
-2017 Research Assistant, ‘Empirical analysis of capital controls and export dynamics in Latin America’, FONDECYT Initiation 2016: Project 11160494. PI: Eugenia Andreasen.
-
-2015-2016 Research Assistant, ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. DICYT, Universidad de Santiago de Chile. PI: Serafima Chirkova.
+2015-2016 Research Assistant. ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. PI: Serafima Chirkova
 
 ___________
 
 ## Teachig Assistant Experience ##
 
-*UC Davis*
+### UC Davis ###
 
-Spring 2024 (Graduate) Advance Cross Section Topics (Colin Cameron)
+Spring 2024 (Graduate) Advance Cross Section Topics (Colin Cameron) (graduate course in machine learning topics)
 
 Fall 2023 Research with Economics Data (Colin Cameron)
 
@@ -60,28 +56,28 @@ Fall 2023 Research with Economics Data (Colin Cameron)
 Winter 2023 Principles of Microeconomics
 
 
-*Universidad de Chile*
+### Universidad de Chile ###
 
 
-Sep-Dec 2020 Microeconometrics: methods of causal inference (Damian Clarke). MSc in Economics.
+2020 Microeconometrics: Methods of Causal Inference (Damian Clarke). MSc in Economics.
 
 
-*Universidad de Santiago de Chile*
+### Universidad de Santiago de Chile ###
 
 
-2018-2019 MSc in Economic Sciences. Universidad de Santiago de Chile. Econometrics Sequence: Econometric theory I and II, Microeconometrics Topics.
+2018-2019 Econometrics Sequence: Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences. 
 
-Aug-Dec 2016 MSc in Financial Economics, Universidad de Santiago de Chile. Asset Valuation.
+2016 Asset Valuation. MSc in Financial Economics.
 
-Aug-Dec 2016 MBA, Universidad de Santiago de Chile. Financial Policy.
+2016 Financial Policy. MBA
 
-Aug-Dec 2016 Diploma in Financial Management and Credit Risk. Universidad de Santiago de Chile. Asset Valuation.
 
-March2015-July2016 Doctorate in Administration Sciences. Universidad de Santiago de Chile. Quantitative methods I.
 
-March-Dec 2016 BSc in Accounting and Auditing, Universidad de Santiago de Chile. Capital Markets I.
+2015-2016 Quantitative Methods I. PhD in Business Managment.
 
-2014-2016 BSc in Economics. Universidad de Santiago de Chile. Econometrics I and II, Principles of Microeconomics.
+2016 Capital Markets I. BSc in Accounting and Auditing
+
+2014-2016 Principles of Microeconomics. BSc in Economics. Econometrics I and II
 
 _________________
 
@@ -91,15 +87,15 @@ _________________
 
 2017-2020 Econometrics I. BSc in Economics.
 
-2016-2017 Money, banking and financial markets. BSc in Economics.
+2016-2017 Money, Banking and Financial Markets. BSc in Economics.
 
 _______
 
 ## Presentations ##
 
-"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”, Virtual Economics of Poverty and Public Policy Seminar (VEPPS), 4th November 2024.
+"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar (VEPPS), 4th November 2024.
 
-“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”, Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023.
+“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023.
 _______
 
 ## Contact ## 
