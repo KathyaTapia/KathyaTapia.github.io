@@ -10,7 +10,7 @@ ____
 Revise & Resubmit ***The Economic Journal***
 
 "Implementing the Panel Event Study" with Damian Clarke.
-***Stata Journal*** 21(4):853–884 (2021). [DOI](https://doi.org/10.1177/1536867X211063144) (over 350 citations on Google Scholar)
+***Stata Journal*** 21(4):853–884 (2021) (over 350 citations on Google Scholar): [DOI](https://doi.org/10.1177/1536867X211063144)
 
 ___________
 
@@ -93,7 +93,7 @@ _______
 
 "Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar [(VEPPS)](http://www.lucieschmidt.com/vepps-seminar), 4th November 2024.
 
-“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)] (https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA).
+“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)](https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA).
 _______
 
 ## Contact ## 
