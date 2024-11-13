@@ -48,17 +48,30 @@ ___________
 
 
 Spring 2024 Graduate. Department of Economics. Advance Cross Section Topics (Colin Cameron).
+
 Fall 2023 Undergraduate. Department of Economics. Research with Economics Data (Colin Cameron).
+
 2021- Spring 2023 Undergraduate. Department of Economics. Analysis of Economics Data (Colin Cameron, Jenna Stearns, Diana Moreira, Mark Siegler).
+
 Winter 2023 Undergraduate. Department of Economics. Principles of Microeconomics.
+
 Sep-Dec 2020 MSc in Economics. Universidad de Chile. Microeconometrics: methods of causal inference.
+
 2018-2019 MSc in Economic Sciences. Universidad de Santiago de Chile. Econometrics Sequence: Econometric theory I and II, Microeconometrics Topics.
+
 Aug-Dec 2016 MSc in Financial Economics, Universidad de Santiago de Chile. Asset Valuation.
+
 Aug-Dec 2016 MBA, Universidad de Santiago de Chile. Financial Policy.
+
 Aug-Dec 2016 Diploma in Financial Management and Credit Risk. Universidad de Santiago de Chile. Asset Valuation.
+
 March2015-July2016 Doctorate in Administration Sciences. Universidad de Santiago de Chile. Quantitative methods I.
+
 March-Dec 2016 BSc in Accounting and Auditing, Universidad de Santiago de Chile. Capital Markets I.
+
 2014-2016 BSc in Economics. Universidad de Santiago de Chile. Econometrics I and II, Principles of Microeconomics.
+
+_________________
 
 ## Teaching Experience ##
 
@@ -77,7 +90,9 @@ _______
 ## Contact ## 
 
 kattapia [at] ucdavis [dot] edu
+
 ____
+
 kathya [dot] tapia [dot] schythe [at] gmail [dot] com
 
 _________
