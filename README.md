@@ -85,9 +85,9 @@ _________________
 
 *Universidad de Santiago de Chile*
 
-2017-2020 Econometrics I. BSc in Economics.
+2017-2020 Econometrics I. BSc in Economics
 
-2016-2017 Money, Banking and Financial Markets. BSc in Economics.
+2016-2017 Money, Banking and Financial Markets. BSc in Economics
 
 _______
 
