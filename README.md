@@ -10,7 +10,7 @@ ____
 Revise & Resubmit ***The Economic Journal***
 
 "Implementing the Panel Event Study" with Damian Clarke.
-***Stata Journal*** 21(4):853–884 (2021). [DOI](https://doi.org/10.1177/1536867X211063144)
+***Stata Journal*** 21(4):853–884 (2021). [DOI](https://doi.org/10.1177/1536867X211063144) (over 350 citations on Google Scholar)
 
 _______
 
