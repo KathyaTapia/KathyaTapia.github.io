@@ -6,10 +6,10 @@ I am a PhD Candidate in the Department of Economics at UC Davis. My research int
 
 ____
 
-"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborns" with Damian Clarke and Nicolás Lillo Bustos.
+"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborns" with Damian Clarke and Nicolás Lillo Bustos
 Revise & Resubmit ***The Economic Journal***
 
-"Implementing the Panel Event Study" with Damian Clarke.
+"Implementing the Panel Event Study" with Damian Clarke
 ***Stata Journal*** 21(4):853–884 (2021) (over 350 citations on Google Scholar): [DOI](https://doi.org/10.1177/1536867X211063144)
 
 ___________
@@ -27,11 +27,11 @@ _____________
 
 ## Selected Work Experience ##
 
-2024- Graduate Student Researcher. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler.
+2024- Graduate Student Researcher. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler
 
 2018-2021 Research Assistant. PI: Damian Clarke
 
-2019-2021 Consultant. ‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA).
+2019-2021 Consultant. ‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA)
 
 ___________
 
@@ -77,9 +77,9 @@ _______
 
 ## Presentations ##
 
-"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar [(VEPPS)](http://www.lucieschmidt.com/vepps-seminar), 4th November 2024.
+"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar [(VEPPS)](http://www.lucieschmidt.com/vepps-seminar), 4th November 2024
 
-“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)](https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA).
+“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)](https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA)
 
 ________
 
