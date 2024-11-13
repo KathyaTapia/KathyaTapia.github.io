@@ -31,36 +31,43 @@ _____________
 
 ## Work Experience ##
 
-Jan 2024- Research Assistant. Principal Investigator: Marianne Bitler. Support empirical work for the evaluation of poverty programs.
+2024- Research Assistant. PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
 
-Aug 2019-2021 Consultant for ‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA). Investigators: Sebastián Martínez and Pablo Celhay.
+2019-2021 Consultant.‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA). Investigators: Sebastián Martínez and Pablo Celhay
 
-Jan 2019-July 2021 Research Assistant for statistical analysis (programming and meta-analysis), FONDECYT (National Fund for Scientific and Technological Development) Project 1200634. Principal Investigator: Damian Clarke.
+2019-2021 Research Assistant, FONDECYT (National Fund for Scientific and Technological Development) Project 1200634. PI: Damian Clarke.
 
-Sep 2018-March 2019 Consultant for ‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB). Investigators: Sebastián Martínez and Pablo Celhay
+2018-2019 Consultant.‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB). Investigators: Sebastián Martínez and Pablo Celhay
 
-Jan-July 2018 Research Assistant for statistical analysis (programming and meta-analysis), FONDECYT Initiation 2016: Project 11160200. P. I. Damian Clarke).
+2018 Research Assistant, FONDECYT Initiation 2016: Project 11160200. PI: Damian Clarke.
 
-Aug-Dec 2017 Research Assistant ‘Empirical analysis of capital controls and export dynamics in Latin America’. FONDECYT Initiation 2016: Project 11160494. P.I. Eugenia Andreasen.
+2017 Research Assistant, ‘Empirical analysis of capital controls and export dynamics in Latin America’, FONDECYT Initiation 2016: Project 11160494. PI: Eugenia Andreasen.
 
-Jun-Dec 2016 Research Assistant. Project baseline contribution by performance, funded by Universidad de Santiago de Chile. P. I. Christian Espinosa.
-
-2015-2016 Research Assistant ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. DICYT, Universidad de Santiago de Chile. P.I. Serafima Chirkova.
+2015-2016 Research Assistant, ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. DICYT, Universidad de Santiago de Chile. PI: Serafima Chirkova.
 
 ___________
 
 ## Teachig Assistant Experience ##
 
+*UC Davis*
 
-Spring 2024 Graduate. Department of Economics. Advance Cross Section Topics (Colin Cameron).
+Spring 2024 (Graduate) Advance Cross Section Topics (Colin Cameron)
 
-Fall 2023 Undergraduate. Department of Economics. Research with Economics Data (Colin Cameron).
+Fall 2023 Research with Economics Data (Colin Cameron)
 
-2021- Spring 2023 Undergraduate. Department of Economics. Analysis of Economics Data (Colin Cameron, Jenna Stearns, Diana Moreira, Mark Siegler).
+2021-2023 Analysis of Economics Data (Colin Cameron, Jenna Stearns, Diana Moreira, Mark Siegler)
 
-Winter 2023 Undergraduate. Department of Economics. Principles of Microeconomics.
+Winter 2023 Principles of Microeconomics
 
-Sep-Dec 2020 MSc in Economics. Universidad de Chile. Microeconometrics: methods of causal inference.
+
+*Universidad de Chile*
+
+
+Sep-Dec 2020 Microeconometrics: methods of causal inference (Damian Clarke). MSc in Economics.
+
+
+*Universidad de Santiago de Chile*
+
 
 2018-2019 MSc in Economic Sciences. Universidad de Santiago de Chile. Econometrics Sequence: Econometric theory I and II, Microeconometrics Topics.
 
@@ -80,14 +87,17 @@ _________________
 
 ## Teaching Experience ##
 
-March 2017-2020 Econometrics I. BSc in Economics. Faculty of Economics and Administration, Universidad de Santiago de Chile.
-Dec 2016-Jan 2017 Money, banking and financial markets. BSc in Economics. Faculty of Economics and Administration, Universidad de Santiago de Chile.
+*Universidad de Santiago de Chile*
+
+2017-2020 Econometrics I. BSc in Economics.
+
+2016-2017 Money, banking and financial markets. BSc in Economics.
 
 _______
 
 ## Presentations ##
 
-"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”, Virtual Economics of Poverty and Public Policy Seminar (VEPPS), 04th November 2024.
+"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”, Virtual Economics of Poverty and Public Policy Seminar (VEPPS), 4th November 2024.
 
 “The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”, Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023.
 _______
