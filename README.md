@@ -20,10 +20,6 @@ ___________
 
 “The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”
 
-“Estimating Educational Returns to Health Coverage: The GES Program”
-
-“Distributional Treatment-Effect Analysis in Stata”
-
 “Gendered Incidence of the Costs of Unplanned Fertility”
 
 
