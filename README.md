@@ -59,23 +59,21 @@ Winter 2023 Principles of Microeconomics
 ### Universidad de Chile ###
 
 
-2020 Microeconometrics: Methods of Causal Inference (Damian Clarke). MSc in Economics.
+2020 Microeconometrics: Methods of Causal Inference (Damian Clarke). MSc in Economics
 
 
 ### Universidad de Santiago de Chile ###
 
 
-2018-2019 Econometrics Sequence: Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences. 
+2018-2019 Econometrics Sequence: Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences
 
-2016 Asset Valuation. MSc in Financial Economics.
+2016 Asset Valuation. MSc in Financial Economics
+
+2016 Capital Markets I. BSc in Accounting and Auditing
 
 2016 Financial Policy. MBA
 
-
-
-2015-2016 Quantitative Methods I. PhD in Business Managment.
-
-2016 Capital Markets I. BSc in Accounting and Auditing
+2015-2016 Quantitative Methods I. PhD in Business Managment
 
 2014-2016 Principles of Microeconomics. BSc in Economics. Econometrics I and II
 
@@ -93,9 +91,9 @@ _______
 
 ## Presentations ##
 
-"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar (VEPPS), 4th November 2024.
+"Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar [(VEPPS)](http://www.lucieschmidt.com/vepps-seminar), 4th November 2024.
 
-“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023.
+“The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)] (https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA).
 _______
 
 ## Contact ## 
