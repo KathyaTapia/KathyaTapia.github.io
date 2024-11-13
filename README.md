@@ -27,15 +27,11 @@ _____________
 
 ## Selected Work Experience ##
 
-2024- GSR. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
+2024- Graduate Student Researcher. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler.
 
-2018-2021 Research Assistant. Programming and meta-analysis. PI: Damian Clarke
+2018-2021 Research Assistant. PI: Damian Clarke
 
 2019-2021 Consultant. ‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA).
-
-2018-2019 Consultant. ‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB).
-
-2015-2016 Research Assistant. ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. PI: Serafima Chirkova
 
 ___________
 
@@ -61,11 +57,11 @@ Winter 2023 Principles of Microeconomics
 ### Universidad de Santiago de Chile ###
 
 
-2018-2019 Econometrics Sequence: Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences
+2018-2019 Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences
 
 2015-2016 Quantitative Methods I. PhD in Business Managment
 
-2014-2016 Principles of Microeconomics, Econometrics I and II. BSc in Economics
+2014-2016 Econometrics I and II. BSc in Economics
 
 _________________
 
