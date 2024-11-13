@@ -1,6 +1,6 @@
 # KATHYA TAPIA-SCHYTHE #
 
-I am a PhD Candidate in the Department of Economics at UC Davis. My research interest are Applied Microeconometrics, Public Economics, Health Economics, and Machine Learning. I also enjoy coding. I co-wrote the *eventdd* command, widely use in STATA for event study cases.
+I am a PhD Candidate in the Department of Economics at UC Davis. My research interests are Applied Microeconometrics, Public Economics, Health Economics, and Machine Learning. I also enjoy coding. I co-wrote the *eventdd* command, widely use in STATA for panel event study models.
 
 ## Publications ##
 
@@ -27,7 +27,7 @@ _____________
 
 ## Selected Work Experience ##
 
-2024- Research Assistant. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
+2024- GSR. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
 
 2018-2021 Research Assistant. Programming and meta-analysis. PI: Damian Clarke
 
