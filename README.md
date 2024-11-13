@@ -29,11 +29,11 @@ ___________
 
 _____________
 
-## Work Experience ##
+## Selected Work Experience ##
 
 2024- Research Assistant. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
 
-2018-2021 Research Assistant. Statistical analysis (programming and meta-analysis), FONDECYT (National Fund for Scientific and Technological Development). PI: Damian Clarke
+2018-2021 Research Assistant. Statistical analysis (programming and meta-analysis). PI: Damian Clarke
 
 2019-2021 Consultant.‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA). Investigators: Sebastián Martínez and Pablo Celhay
 
@@ -43,7 +43,7 @@ _____________
 
 ___________
 
-## Teachig Assistant Experience ##
+## Selected Teaching Assistant Experience ##
 
 ### UC Davis ###
 
@@ -67,15 +67,9 @@ Winter 2023 Principles of Microeconomics
 
 2018-2019 Econometrics Sequence: Econometric Theory I and II, and Microeconometrics Topics. MSc in Economic Sciences
 
-2016 Asset Valuation. MSc in Financial Economics
-
-2016 Capital Markets I. BSc in Accounting and Auditing
-
-2016 Financial Policy. MBA
-
 2015-2016 Quantitative Methods I. PhD in Business Managment
 
-2014-2016 Principles of Microeconomics. BSc in Economics. Econometrics I and II
+2014-2016 Principles of Microeconomics, Econometrics I and II. BSc in Economics
 
 _________________
 
