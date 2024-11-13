@@ -33,11 +33,11 @@ _____________
 
 2024- Research Assistant. [Center for Poverty & Inequality Research (UC Davis)](https://poverty.ucdavis.edu/). PI: Marianne Bitler. Support empirical work for the evaluation of poverty programs
 
-2018-2021 Research Assistant. Statistical analysis (programming and meta-analysis). PI: Damian Clarke
+2018-2021 Research Assistant. Programming and meta-analysis. PI: Damian Clarke
 
-2019-2021 Consultant.‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA). Investigators: Sebastián Martínez and Pablo Celhay
+2019-2021 Consultant. ‘Impact Evaluation of the Strengthening of Health Networks Program, Bolivia’. Inter-American Development Bank (IDB) and Japan International Cooperation Agency (JICA).
 
-2018-2019 Consultant.‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB). Investigators: Sebastián Martínez and Pablo Celhay
+2018-2019 Consultant. ‘Impact Evaluation of the Results-Based Financing Model for the Social Protection and Health Division, Dominican Republic’. Inter-American Development Bank (IDB).
 
 2015-2016 Research Assistant. ‘Natality, maternity capital and labor participation: the effectiveness of family policy’. PI: Serafima Chirkova
 
@@ -88,7 +88,8 @@ _______
 "Estimating Inter-generational Returns to Medical Care: New Evidence from At-Risk Newborn”. Virtual Economics of Poverty and Public Policy Seminar [(VEPPS)](http://www.lucieschmidt.com/vepps-seminar), 4th November 2024.
 
 “The Effects of Limiting Pricing in the Private Health Insurance Market: The Chilean Case”. Successfully Navigating Your PhD: A Mentoring Workshop for 3rd+ Year Women & Non-Binary PhD Students in Health Economics & Health Policy, 29th September 2023. Committee on the Status of Women in the Economics Profession [(CSWEP)](https://www.aeaweb.org/about-aea/committees/cswep), American Economic Association (AEA).
-_______
+
+________
 
 ## Contact ## 
 
